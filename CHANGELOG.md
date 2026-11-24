@@ -75,7 +75,7 @@ plain markdown — no HTML, no links to local files.
 
 ### Launch: search, answer engines and link previews
 
-- **The repository is `SecurityQQ/defuse-arena`**, renamed from
+- **The repository is `VP-Solutions/defuse-arena`**, renamed from
   `inspection-arena` to match the product; GitHub redirects the old address.
   The article's links and JSON-LD, `llms.txt`, the clone command in
   `PROBLEM.md` and the README's layout tree use the new name.
