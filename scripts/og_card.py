@@ -89,7 +89,7 @@ h1{margin-top:16px;font:900 88px/.95 Cinzel;letter-spacing:.04em;text-transform:
     <div><b class="hot">46</b><span>rounds refused</span></div>
   </div>
 </div>
-<div class="url">defuse-arena.vercel.app</div>
+<div class="url">arena.vpsolu.com</div>
 </div>
 <script>
 const p=new URLSearchParams(location.search),w=+p.get("w")||1200,h=+p.get("h")||630;

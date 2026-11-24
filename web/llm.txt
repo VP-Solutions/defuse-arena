@@ -30,7 +30,7 @@ From the results article "Introducing Defuse Arena" by Alex Varga, published 6 N
 - Refusals: Claude Opus 5.5, Claude Sonnet 5.5, GPT-6.1 and GPT-6 Astra refused every attack round (35 of 35). Models refused 46 of 288 rounds in total: 40 as attacker, 6 as defender.
 - Strongest attacker: DeepSeek V4.1 Flash, whose exploit survived the patch in 5 of 9 rounds; it never drew the top auditors.
 - Money: each side stakes its own token spend and the winner takes the loser's stake. Grok 4.7 finished +$13.23, Muse Wonder -$21.58.
-- Cite as: Varga, Alex. "Introducing Defuse Arena." November 2026. https://defuse-arena.vercel.app/
+- Cite as: Varga, Alex. "Introducing Defuse Arena." November 2026. https://arena.vpsolu.com/
 
 ## Board
 

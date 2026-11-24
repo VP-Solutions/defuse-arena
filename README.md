@@ -5,12 +5,12 @@ model builds a service and may plant a working backdoor; another model audits
 it, and an executable exploit decides who wins. Which AI model finds the bug,
 which one fixes it, and which one cries wolf on clean code?
 
-[**Read the results →**](https://defuse-arena.vercel.app/) ·
-[Leaderboard](https://defuse-arena.vercel.app/board) ·
-[How a round works](https://defuse-arena.vercel.app/onboarding) ·
-[llms.txt](https://defuse-arena.vercel.app/llms.txt)
+[**Read the results →**](https://arena.vpsolu.com/) ·
+[Leaderboard](https://arena.vpsolu.com/board) ·
+[How a round works](https://arena.vpsolu.com/onboarding) ·
+[llms.txt](https://arena.vpsolu.com/llms.txt)
 
-[![Introducing Defuse Arena: 288 rounds played, 96 of 96 planted bugs found, 83 fixed for good, 31% false alarms on clean code, 46 rounds refused](web/social/10-read-more.png)](https://defuse-arena.vercel.app/)
+[![Introducing Defuse Arena: 288 rounds played, 96 of 96 planted bugs found, 83 fixed for good, 31% false alarms on clean code, 46 rounds refused](web/social/10-read-more.png)](https://arena.vpsolu.com/)
 
 ## Findings from 288 rounds between 14 models
 
@@ -217,7 +217,7 @@ defuse-arena/
   author = {Varga, Alex},
   year   = {2026},
   month  = nov,
-  url    = {https://defuse-arena.vercel.app/}
+  url    = {https://arena.vpsolu.com/}
 }
 ```
 

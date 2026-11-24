@@ -55,6 +55,28 @@
   ],
   "redirects": [
     {
+      "source": "/:path(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "defuse-arena.vercel.app"
+        }
+      ],
+      "destination": "https://arena.vpsolu.com/:path",
+      "permanent": true
+    },
+    {
+      "source": "/:path(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "inspection-arena.vercel.app"
+        }
+      ],
+      "destination": "https://arena.vpsolu.com/:path",
+      "permanent": true
+    },
+    {
       "source": "/leaderboard",
       "destination": "/board",
       "permanent": false
