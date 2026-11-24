@@ -28,7 +28,7 @@ from article_charts import DEFAULT_SEASON, build_data  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUT = ROOT / "article" / "social"
 FONTS = ROOT / "article" / "social" / "_fonts"
-SITE = "defuse-arena.vercel.app"
+SITE = "arena.vpsolu.com"
 W, H = 1920, 1080
 DUR = 8
 

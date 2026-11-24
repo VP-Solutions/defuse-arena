@@ -330,7 +330,7 @@ html.paper,html.paper body{background:transparent}
   <p class="sub" id="sub">__SUB__</p>
   <div class="bar" id="bar"></div>
   <div class="plot" id="plot"></div>
-  <div class="foot"><div class="legend" id="legend"></div><a href="https://defuse-arena.vercel.app" target="_blank" rel="noopener">defuse-arena.vercel.app ↗</a></div>
+  <div class="foot"><div class="legend" id="legend"></div><a href="https://arena.vpsolu.com" target="_blank" rel="noopener">arena.vpsolu.com ↗</a></div>
 </div>
 <div id="tip" role="tooltip"></div>
 <script id="data" type="application/json">__DATA__</script>
@@ -1009,7 +1009,7 @@ background:radial-gradient(circle at 35% 30%,#F0E6D2,#C8AA6E 45%,#785A28);border
   <ol class="stepper" id="stepper"></ol>
   <div class="stage" id="stage"></div>
   <p class="caption" id="caption"></p>
-  <div class="foot"><span id="src"></span><a href="https://defuse-arena.vercel.app" target="_blank" rel="noopener">defuse-arena.vercel.app ↗</a></div>
+  <div class="foot"><span id="src"></span><a href="https://arena.vpsolu.com" target="_blank" rel="noopener">arena.vpsolu.com ↗</a></div>
 </div>
 <script id="data" type="application/json">__DATA__</script>
 <script>

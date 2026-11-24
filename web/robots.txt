@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://defuse-arena.vercel.app/sitemap.xml
+Sitemap: https://arena.vpsolu.com/sitemap.xml
